@@ -1,0 +1,11 @@
+#menu-bar{
+  background-color: #181818;
+  position: fixed;
+  width: 100%;
+  bottom: 0%;
+  height: 8%;
+}
+
+#media-controls {
+  text-align:center;
+}
